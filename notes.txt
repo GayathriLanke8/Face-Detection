@@ -1,0 +1,11 @@
+step1 : Creating the Environment
+# conda create -n facedetection python=3.12.11
+
+step2 : Activate the Environment
+# conda activate facedetection
+
+step3 : Install the Dependencies
+# pip install -r requirements.txt
+
+step4 : Run the Python Script
+# python run.py
