@@ -43,3 +43,4 @@ class FaceDetection:
     def run(self):
         model = self.load_model()
         self.load_video(model)
+        
